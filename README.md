@@ -1,0 +1,2 @@
+# Exploring-Dinosaur-Records-A-Visual-Data-Analysis-of-the-Paleobiology-Database
+I conducted Exploratory Data Analysis (EDA) on a dataset that contains dinosaur records from the Paleobiology Database. The EDA consisted of an analysis of diversity in the dataset, comparison, and Time Series Analysis. The goal was to discover patterns, understand feature correlations, analyze distributions, and visualize the data.
